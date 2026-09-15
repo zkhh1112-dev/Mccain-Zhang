@@ -1,0 +1,2 @@
+# 仅用于把桌面版打包成独立的 Windows EXE。
+pyinstaller>=6.15,<7.0
